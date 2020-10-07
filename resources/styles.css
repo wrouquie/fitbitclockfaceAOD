@@ -1,0 +1,34 @@
+.markercolour {
+  fill: red;
+}
+
+.accentcolour {
+  fill: black;
+}
+
+.maindialtwelve {
+  y: -48%;
+  width: 2;
+  height: 20;
+}
+
+.maindialquarter {
+  x: 0%-1;
+  y: -48%;
+  width: 3;
+  height: 20;
+}
+
+.maindialfive {
+  x: 0%-1;
+  y: -48%;
+  width: 3;
+  height: 15;
+}
+
+.maindialminute {
+  x: 0%-1;
+  y: -48%;
+  width: 3;
+  height: 5;
+}

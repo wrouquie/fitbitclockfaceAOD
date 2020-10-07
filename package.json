@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~5.0.0"
+  },
+  "fitbit": {
+    "appUUID": "2618c27d-008c-49e5-b455-cccb56f0d9e2",
+    "appType": "clockface",
+    "appDisplayName": "Fancy Analog Clock",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Fancy Analog Clock"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
